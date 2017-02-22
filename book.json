@@ -1,0 +1,28 @@
+{
+  "pdf": {
+    "fontFamily": "IPAGothic"
+  },
+  "plugins": ["autocover"],
+    "pluginsConfig": {
+      "autocover": {
+      "title": "Word2Vec「単語のベクトル表現(Vector Representations of Words)」の可視化",
+      "author": "@k_kanou",
+      "pluginsConfig": {
+          "autocover": {
+              "font": {
+                  "size": null,
+                  "family": "IPAGothic",
+                  "color": "#000"
+              },
+              "size": {
+                  "w": 1800,
+                  "h": 2360
+              },
+              "background": {
+                  "color": "#FFF"
+              }
+          }
+      }
+    }
+  }
+}
