@@ -1,4 +1,6 @@
-## 参考：Word2Vecの活用事例
+## Word2Vecの活用事例
+
+### fastText
 
 * fastText(Facebookの人工知能研究所が公開した自然言語処理を高速化するライブラリ)
  * Word2Vecと同じく単語の分散表現を構築することができる。
@@ -19,20 +21,43 @@
 >  * Yahoo!はレシートメールの文章から製品をオススメする
 >  * ◯2Vecを考えれば推薦に応用できる
 
+### Word2Vec
+
 > Word2Vec：発明した本人も驚く単語ベクトルの驚異的な力
 > https://deepage.net/bigdata/machine_learning/2016/09/02/word2vec_power_of_word_vector.html
+
+### Doc2Vec
 
 > Doc2Vecの仕組みとgensimを使った文書類似度算出チュートリアル
 >
 > https://deepage.net/machine_learning/2017/01/08/doc2vec.html
 
+### リクルートの事例
+
 > リクルート式 自然言語処理技術の適応事例紹介
 >
 > https://www.slideshare.net/recruitcojp/ss-66242894
 
+### DeNAの事例
+
 > DeNAにおける自然言語処理活用
 >
 > https://www.slideshare.net/KazukiFujikawa/dena-53192270
+
+### サイバーエージェントの事例
+
+> 音楽聴き放題サービスAWAにおけるレコメンド手法の検討
+(artist2vecの試み)
+>
+> http://www.ai.soc.i.kyoto-u.ac.jp/docmas/proc/docmas-jsai-201511/wada_kazuya.pdf
+
+### Yahoo! JAPANの類似技術の事例
+
+> 高次元ベクトルデータ検索技術「NGT」の性能と使い方の紹介
+>
+> https://techblog.yahoo.co.jp/data_solution/ngt_acl_2016/
+
+### みずほ情報総研の事例
 
 > 深層学習の最近の進展（みずほ情報総研技報 Vol.7 No.1）
 >

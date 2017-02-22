@@ -8,8 +8,7 @@
 
 ## はじめに
 
-　[Word2Vec](https://code.google.com/archive/p/word2vec/) は、Googleの研究者のトマス・ミコロフ氏（現：Facebook）らが提案した自然言語処理の手法です。
-　TensorFlow（Googleが提供する機械学習ライブラリ）の[チュートリアル](https://www.tensorflow.org/versions/master/tutorials/word2vec/)では、
- * 「Vector Representations of Words」（単語のベクトル表現）
+* [Word2Vec](https://code.google.com/archive/p/word2vec/) は、Googleの研究者のトマス・ミコロフ氏（現：Facebook）らが提案した自然言語処理の手法です。
 
-として紹介されています。
+* TensorFlow（Googleが提供する機械学習ライブラリ）の[チュートリアル](https://www.tensorflow.org/versions/master/tutorials/word2vec/)では、以下のタイトルで紹介されています。
+ * 「Vector Representations of Words」（単語のベクトル表現）
